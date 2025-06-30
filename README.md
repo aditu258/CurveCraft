@@ -17,7 +17,7 @@ The project is divided into two main parts:
 
 Here is a glimpse of the 3D polynomial regression plot:
 
-![3D Polynomial Regression](C:\Users\Lenovo\OneDrive\Desktop\CurveCraft\3D_Image.png)
+![3D Polynomial Regression](https://github.com/aditu258/CurveCraft/blob/968a9070a6b2cc492f5aae3933ae6a96f7accf41/3D_Image.png)
 
 ### 2. Polynomial Regression on 3D Data
 
