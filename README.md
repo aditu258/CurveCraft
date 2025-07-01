@@ -40,14 +40,7 @@ Here is a glimpse of the 3D polynomial regression plot:
     ```bash
     pip install numpy matplotlib scikit-learn pandas plotly
     ```
-4.  Open and run the `polynomial-regression.ipynb` notebook in a Jupyter environment.
-
-## Kaggle Notebook
-
-You can find the original Kaggle notebook with the complete code and explanations here:
-[Link to your Kaggle Notebook](https://www.kaggle.com/code/adityasinha5730/curvecraft/edit)
-
-## Author
+ ## Author
 
 -   **Aditya Sinha**
 
